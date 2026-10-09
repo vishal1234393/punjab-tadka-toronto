@@ -1,0 +1,11 @@
+# Punjab Tadka Toronto
+- [x] Update only the six owner-confirmed menu prices and verify pricing calculations; preserve all other website content and design.
+- [x] Create premium restaurant design and shared navigation.
+- [x] Build home, menu, gallery, about and contact pages.
+- [x] Add order selection, contact controls, sample hours and location.
+- [x] Verify navigation, ordering and mobile layout.
+- [ ] Polish mobile layouts, ordering dialogs and dish photography.
+- [ ] Recheck all navigation, contact feedback and menu interactions.
+- [ ] Export code to GitHub repo punjab-tadka-toronto for free hosting — owner must authorize the Lovable GitHub App in the editor; design unchanged.
+- [ ] Live phone/WhatsApp ordering, contact delivery, exact location and confirmed hours/prices — awaiting real restaurant details from the owner.
+- [ ] Publish — blocked until the owner reviews and explicitly requests publishing.
